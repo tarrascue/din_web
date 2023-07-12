@@ -1,10 +1,10 @@
 # din_web
 
-### Разворачиваем стенд: \
+### Разворачиваем стенд:
 `vagrant up` \
 `vagrant ssh`
 
-### Запускаем наши сервисы: \
+### Запускаем наши сервисы:
 `cd /vagrant/provision/app-release/ && docker-compose up -d`
 
 ### Проверка
